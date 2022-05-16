@@ -1,6 +1,6 @@
 # CRBT ❤️ Open-Source
 
-Welcome to the [CRBT](https://crbt.ga) project!
+Welcome to the [CRBT](https://crbt.app) project!
 
 The CRBT bot is an easy-to-use, performant and versatile Discord application made to achieve and automate tasks on Discord to enhance its core features.
 
@@ -19,12 +19,12 @@ CRBT is also a project full of public open-source software and libraries for Dis
 
 Built with TypeScript and Discord.js, this framework provides an easy way to build Discord applications that leverage Discord's interaction API thanks to its functions and utilities.
 
-As of now, there is no documentation or CLI as the project isn't finalized, but you can still check out the [source code](https://github.com/CRBT-Team/Purplet) and the [sample project](https://github.com/CRBT-Team/Purplet/tree/main/sample) build with it.
+To get started, use the [`npm init purplet`](https://github.com/CRBT-Team/create-purplet) to initialize a Purplet project. You can also check the [source code](https://github.com/CRBT-Team/Purplet) and the [sample project](https://github.com/CRBT-Team/Purplet/tree/main/sample) built with it.
 
 ## Website
 
-[![](https://img.shields.io/badge/crbt.ga-View%20website-F27187)](https://crbt.ga) [![Netlify](https://img.shields.io/netlify/89d0a765-1a3c-460c-aed1-8638426e7e54?logo=netlify&logoColor=white)](https://app.netlify.com/sites/crbt/deploys) ![GitHub package.json version](https://img.shields.io/github/package-json/v/crbt-team/website?color=F27187&label=version)
+[![](https://img.shields.io/badge/crbt.app-View%20website-F27187)](https://crbt.app) [![Netlify](https://img.shields.io/netlify/89d0a765-1a3c-460c-aed1-8638426e7e54?logo=netlify&logoColor=white)](https://app.netlify.com/sites/crbt/deploys) ![GitHub package.json version](https://img.shields.io/github/package-json/v/crbt-team/website?color=F27187&label=version)
 
 The website for the CRBT application, made with [SvelteKit](https://kit.svelte.dev), SCSS and TypeScript. Blog posts are handled with the [mdsvex](https://mdsvex.com) library.
 
-The source code is available on [GitHub](https://github.com/CRBT-Team/Website) and the website, which you can view on [crbt.ga](https://crbt.ga), is hosted on [Netlify](https://app.netlify.com/sites/crbt/deploys).
+The source code is available on [GitHub](https://github.com/CRBT-Team/Website) and the website, which you can view on [crbt.app](https://crbt.app), is hosted on [Netlify](https://app.netlify.com/sites/crbt/deploys).
