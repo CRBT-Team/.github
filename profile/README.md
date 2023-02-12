@@ -1,9 +1,9 @@
-# CRBT
+# CRBT OSS
 
-Welcome to the [CRBT](https://crbt.app) GitHub Page!
+Welcome to the [CRBT](https://crbt.app) GitHub page!
 
 CRBT is a multi-purpose app that expands the Discord experience and provides rich and qualitative features that are made to enpower everyone.
 
-<!--- CRBT is an easy-to-use, performant and versatile Discord application made to easily achieve and automate tasks on Discord to enhance its core features! --->
+In the CRBT Team, we love free & open-source software, which is why we developed tools like [Purplet](https://github.com/CRBT-Team/Purplet) to enpower everyone to make Discord bots efficiently.
 
-CRBT is  the home of open-source software tailored for Discord application development like [Purplet](https://github.com/CRBT-Team/Purplet), [CRBTscript](https://github.com/CRBT-Team/CRBTscript), as well as some open-source stuff around CRBT like [our documentation](https://github.com/CRBT-Team/docs) and our [website](https://github.com/CRBT-Team/Website)!
+CRBT in itself is [fully open-source](https://github.com/CRBT-Team/CRBT), and so are things around it like [its documentation](https://github.com/CRBT-Team/docs) and [the website](https://github.com/CRBT-Team/Website)!
